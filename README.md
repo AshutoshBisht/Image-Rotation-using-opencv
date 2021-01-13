@@ -10,7 +10,7 @@
 ## Library Used:
     openCV
 ## software used:
-    Visual Studio
+    Visual Studio 2019
 ## How to run on your PC:
 ### 1. Installaion of openCV:
         => Installation in Windows:

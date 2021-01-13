@@ -36,6 +36,9 @@
        
 When the whole setup is done open Visual Studio.
     =>Create a new project and then setup openCV for that project.
+    
     =>Then paste the code that i have written in Source.cpp in your source file.
+    
     =>Then create a images folder in the same folder that contains Source.cpp and put the image that you want to rotate inside that folder.
+    
     =>Then 

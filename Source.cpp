@@ -1,5 +1,6 @@
 
 /*
+this code is for changing the iage to grayscale
 #include<opencv2/imgcodecs.hpp>
 
 #include<opencv2/highgui.hpp>

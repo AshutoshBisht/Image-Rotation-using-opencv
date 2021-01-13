@@ -42,4 +42,6 @@ When the whole setup is done open Visual Studio.
     
     =>Then create a images folder in the same folder that contains Source.cpp and put the image that you want to rotate inside that folder.
     
-    =>Then 
+    =>Then in the Source.cpp file in line number 53 i.e. Mat src = imread("images/img1.jpg"); replace img1.jpg with name of your image.
+    
+    =>Run the program.
